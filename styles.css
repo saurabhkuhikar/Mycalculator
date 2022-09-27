@@ -8,19 +8,16 @@
 
 .calculator {
   margin: 2% 32% 0% 35%;
-  /* background : #e48327; */
 }
 
 .grid-container {
   display: inline-grid;
   grid-template-columns: auto auto auto;
-  /* background-color: #2196F3; */
   column-gap: 60%;
   padding: 10px;
 }
 
 .grid-item {
-  /* border: 1px solid rgba(0, 0, 0, 0.8); */
   padding: 20px;
   font-size: 16px;
   text-align: center;
